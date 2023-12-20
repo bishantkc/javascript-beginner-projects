@@ -1,7 +1,7 @@
 console.log("Hello from JavaScript"); // hi
-/* hello  use this to write comment
-ahdal */
-/*
+ hello  use this to write comment
+ahdal 
+
 var my_name = "Jack"  // var is to define a variable. it can be edited later also.
 my_name = 8
 
@@ -19,10 +19,10 @@ console.log(a) // console.log is like print
  console.log(a)
  console.log(b)  
  
- */
+ 
 
 // sum,difference.....
-/*
+
 var sum = 10 + 10;
 console.log(sum)
 
@@ -34,7 +34,7 @@ console.log(product)
 
 var quotient = 4 / 2;
 console.log(quotient)
-*/
+
 var myVar = 10;
 
 myVar++  // can also done subtract by using --
