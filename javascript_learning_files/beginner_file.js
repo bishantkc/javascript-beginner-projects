@@ -1,5 +1,5 @@
 console.log("Hello from JavaScript"); // hi
- hello  use this to write comment
+//  hello  use this to write comment
 ahdal 
 
 var my_name = "Jack"  // var is to define a variable. it can be edited later also.
