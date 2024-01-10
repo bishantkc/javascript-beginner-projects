@@ -97,7 +97,7 @@ console.log(first_letter_of_first_name)
  console.log(data)
  
  var w_array = [["john", 20], ["cat", 10]]
- w_array.push(["dog",30])
+ w_array.push(["dog",30]) // this pushes info into last array list
  console.log(w_array)
  
  var w_array = [["john", 20], ["cat", 10]]
@@ -110,7 +110,7 @@ console.log(first_letter_of_first_name)
  
  var w_array = [["john", 20], ["cat", 10]]
  w_array.shift()
- w_array.unshift(["dog",10])
+ w_array.unshift(["dog",10]) // this pushes info into start of array list
  console.log(w_array)
  
  //function
